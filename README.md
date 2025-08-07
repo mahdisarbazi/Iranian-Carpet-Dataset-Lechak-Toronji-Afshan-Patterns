@@ -5,7 +5,7 @@ https://doi.org/10.34740/kaggle/dsv/12702937
 # Iranian Carpet Dataset: Lechak-Toranj & Afshan Patterns
 
 ## Overview
-This dataset contains **Iranian carpet** images focused on two prominent patterns: **Lechak-Toranj** (Corner-Medallion) and **Afshan** (Scattered) designs. The dataset has been augmented using specialized image processing techniques to improve machine learning classification performance.
+This dataset contains **Iranian carpet** images focused on two prominent patterns: **Lechak-Toranj** and **Afshan** designs. The dataset has been augmented using specialized image processing techniques to improve machine learning classification performance.
 
 ## Dataset Details
 - **Total Images**: 984 (4x augmented from 284 original images)
