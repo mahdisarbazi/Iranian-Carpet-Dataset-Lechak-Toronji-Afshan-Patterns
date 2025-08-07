@@ -2,14 +2,14 @@ Download Link:
 https://doi.org/10.34740/kaggle/dsv/12702937
 
 ```markdown
-# Iranian Carpet Dataset: Lechak-Toronji & Afshan Patterns
+# Iranian Carpet Dataset: Lechak-Toranj & Afshan Patterns
 
 ## Overview
-This dataset contains **Iranian carpet** images focused on two prominent patterns: **Lechak-Toronji** (Corner-Medallion) and **Afshan** (Scattered) designs. The dataset has been augmented using specialized image processing techniques to improve machine learning classification performance.
+This dataset contains **Iranian carpet** images focused on two prominent patterns: **Lechak-Toranj** (Corner-Medallion) and **Afshan** (Scattered) designs. The dataset has been augmented using specialized image processing techniques to improve machine learning classification performance.
 
 ## Dataset Details
 - **Total Images**: 984 (4x augmented from 247 original images)
-- **Classes**: 2 (Lechak-Toronji: 480 images, Afshan: 504 images)
+- **Classes**: 2 (Lechak-Toranj: 480 images, Afshan: 504 images)
 - **Image Size**: Original resolution (not resized to 128×128)
 - **Format**: JPG
 
@@ -25,8 +25,8 @@ The Python implementation for these filters is provided in the file: `augmentati
 
 ## Pattern Descriptions
 
-### Lechak-Toronja (لچک ترنج)
-Structured design featuring a central medallion (Toronja) - circular, oval, or diamond-shaped - surrounded by four corner elements (Lechak). This pattern maintains its classification even when some elements are removed.
+### Lechak-Toranj (لچک ترنج)
+Structured design featuring a central medallion (Toranj) - circular, oval, or diamond-shaped - surrounded by four corner elements (Lechak). This pattern maintains its classification even when some elements are removed.
 
 ### Afshan (افشان)
 Scattered pattern design where motifs and decorations move in a specific direction across the carpet surface, with no repetitive pattern visible in other areas.
@@ -40,7 +40,7 @@ Scattered pattern design where motifs and decorations move in a specific directi
 If you use this dataset, please cite:
 ```
 
-Iranian Carpet Dataset: Lechak-Toronji & Afshan Patterns Authors: Siamak Sarbazi, Mahdi Sarbazi Year: 2025
+Iranian Carpet Dataset: Lechak-Toranj & Afshan Patterns Authors: Siamak Sarbazi, Mahdi Sarbazi Year: 2025, https://doi.org/10.34740/kaggle/dsv/12702937
 
 ```
 
