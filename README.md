@@ -50,11 +50,4 @@ This dataset is designed for:
 - Traditional art pattern recognition
 - Lightweight machine learning model development
 - Computer vision research on cultural heritage
-
-## License
-Use of this dataset is permitted with citation.
-
-**Suggested GitHub practice:**
-You may include a `LICENSE` file in the repository and reference [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), without adding its full legal text to this file.
-
 ```
